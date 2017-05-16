@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BoxSelection.cs" />
+    <Compile Include="CallerInfoAttributes.cs" />
     <Compile Include="Initializers.cs" />
     <Compile Include="InitializersArray.cs" />
     <Compile Include="InternalsVisibleTo.cs" />
