@@ -58,6 +58,7 @@
     <None Include="App.config" />
     <None Include="BrowseWith.md" />
     <None Include="VsExtensions.md" />
+    <None Include="VsPersonalTweaks.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Media\BrowseWith.png" />
