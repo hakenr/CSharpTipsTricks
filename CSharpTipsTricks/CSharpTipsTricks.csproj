@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BoxSelection.cs" />
     <Compile Include="InternalsVisibleTo.cs" />
+    <Compile Include="NameOf.cs" />
     <Compile Include="NoRefactoringInInactiveCode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
