@@ -57,6 +57,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="BrowseWith.md" />
+    <None Include="VsExtensions.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Media\BrowseWith.png" />
