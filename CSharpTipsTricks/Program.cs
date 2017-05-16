@@ -10,6 +10,7 @@ namespace Havit.Demos.CSharpTipsTricks
 	{
 		public static void Main(string[] args)
 		{
+			//AsyncLocal.Demo();
 			//CallerInfoAttributes.Log("Message!");
 			//DebuggerDisplay.Foo();
 			//Initializers.DoSomething();

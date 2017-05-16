@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncLocal.cs" />
     <Compile Include="BoxSelection.cs" />
     <Compile Include="CallerInfoAttributes.cs" />
     <Compile Include="DebuggerDisplay.cs" />
