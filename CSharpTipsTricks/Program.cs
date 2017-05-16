@@ -10,7 +10,8 @@ namespace Havit.Demos.CSharpTipsTricks
 	{
 		public static void Main(string[] args)
 		{
-			// NOOP - Maybe later
+			//NoRefactoringInInactiveCode.DoSomething();
+			//NoRefactoringInInactiveCode.DoSomething2();
 		}
 	}
 }
