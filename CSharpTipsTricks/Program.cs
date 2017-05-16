@@ -12,6 +12,7 @@ namespace Havit.Demos.CSharpTipsTricks
 		{
 			//NoRefactoringInInactiveCode.DoSomething();
 			//NoRefactoringInInactiveCode.DoSomething2();
+			//Initializers.DoSomething();
 		}
 	}
 }
