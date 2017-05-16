@@ -11,6 +11,7 @@ namespace Havit.Demos.CSharpTipsTricks
 		public static void Main(string[] args)
 		{
 			//CallerInfoAttributes.Log("Message!");
+			//DebuggerDisplay.Foo();
 			//Initializers.DoSomething();
 			//NoRefactoringInInactiveCode.DoSomething();
 			//NoRefactoringInInactiveCode.DoSomething2();
