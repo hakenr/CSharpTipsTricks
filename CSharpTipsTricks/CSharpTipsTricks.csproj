@@ -47,6 +47,7 @@
     <Compile Include="Initializers.cs" />
     <Compile Include="InitializersArray.cs" />
     <Compile Include="InternalsVisibleTo.cs" />
+    <Compile Include="MoveLineUpDown.cs" />
     <Compile Include="NameOf.cs" />
     <Compile Include="NoRefactoringInInactiveCode.cs" />
     <Compile Include="Program.cs" />
