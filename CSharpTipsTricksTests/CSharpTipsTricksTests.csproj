@@ -47,8 +47,10 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HardcodedDependenciesTestability.cs" />
     <Compile Include="InternalsTest.cs" />
     <Compile Include="MSTestV2TestCases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
