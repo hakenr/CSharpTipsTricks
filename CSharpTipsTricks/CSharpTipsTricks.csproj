@@ -62,6 +62,7 @@
     <None Include="BrowseWith.md" />
     <None Include="VsExtensions.md" />
     <None Include="VsPersonalTweaks.md" />
+    <None Include="VsTopKeyboardShortcuts.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Media\BrowseWith.png" />
