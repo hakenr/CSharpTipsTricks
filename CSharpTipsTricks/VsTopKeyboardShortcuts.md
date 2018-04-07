@@ -21,7 +21,7 @@
 * <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>C</kbd> - Comment Selection
 * <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>U</kbd> - Un-comment Selection
 * <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>D</kbd> - Format Document
-* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd> - **Cycle Clipboard Ring**
+* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd> - **Cycle Clipboard Ring** (Ditto Clipboard)
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd> - **Delete Line**
 * <kbd>Alt</kbd>+<kbd>Up</kbd>/<kbd>Down</kbd> - Move Line Up/Down
 
