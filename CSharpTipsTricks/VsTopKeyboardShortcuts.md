@@ -12,10 +12,12 @@
 * <kbd>Ctrl</kbd>+<kbd>=</kbd> - Navigate Back
 * <kbd>Ctrl</kbd>+<kbd>+</kbd> - Navigate Forward
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F12</kbd> - **Go to Next Error**
-* <kbd>Ctrl</kbd>+<kbd>Right</kbd>/<kbd>Left</kbd> - Next/Previous Word
+* <kbd>Ctrl</kbd>+<kbd>Right</kbd>/<kbd>Left</kbd> - Next/Previous (Sub)Word - ([Subword Navigation](https://marketplace.visualstudio.com/items?itemName=OlleWestman.SubwordNavigation))
+* <kbd>Ctrl</kbd>+<kbd>Up</kbd>/<kbd>Down</kbd> - Go to Next/Previous Member *(Edit.NextMethod/PreviousMethod)* (Default: Scroll Up/Down)
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Up</kbd>/<kbd>Down</kbd> - Go to Next/Previous Usage
 * <kbd>Ctrl</kbd>+<kbd>M</kbd>,<kbd>G</kbd> - **Go to View** (from Controller)
-* <kbd>F6</kbd> - Toggle Markup / Code-behind (WebForms, WinForms, ...)
+* <kbd>F7</kbd> - Toggle Markup / Code-behind (WebForms, WinForms, ...)
+  * https://knowledge-base.havit.cz/2015/08/07/vs2013-kdyz-v-code-behind-nefunguje-f7-pro-prechod-do-markupu/
 
 ### Code Editing
 * <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>C</kbd> - Comment Selection
@@ -46,5 +48,6 @@
 * <kbd>Alt</kbd>+<kbd>W</kbd>,<kbd>L</kbd> - **Close All Documents**
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> - Build
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>/<kbd>H</kbd> - Find/Replace in Files
+* <kbd>Alt</kbd>+<kbd>Space</kbd> - Open Command Line ([Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine))
 
 Complete list: http://visualstudioshortcuts.com/2017/

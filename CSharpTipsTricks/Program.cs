@@ -12,7 +12,7 @@ namespace Havit.Demos.CSharpTipsTricks
 		{
 			//AsyncLocal.Demo();
 			//CallerInfoAttributes.Log("Message!");
-			//DebuggerDisplay.Foo();
+			DebuggerDisplay.Foo();
 			//Initializers.DoSomething();
 			//NoRefactoringInInactiveCode.DoSomething();
 			//NoRefactoringInInactiveCode.DoSomething2();

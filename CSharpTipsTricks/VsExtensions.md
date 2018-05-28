@@ -1,12 +1,15 @@
 ﻿# Visual Studio 2017 Extensions
 
 ### Basic
-* **Roslynator Refactorings** (Josef Pihrt) https://marketplace.visualstudio.com/items?itemName=josefpihrt.RoslynatorRefactorings
-* **Markdown Editor** (Mads Kristensen) https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor 
-* **Add New File** (Mads Kristensen) https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile
-* **Disable Mouse Wheel Zoom** (Noah Richards) https://marketplace.visualstudio.com/items?itemName=NoahRichards.DisableMouseWheelZoom [VS2015 Only, VS2017 after manual edit of the vsix manifest]
+* **[Roslynator Refactorings](https://marketplace.visualstudio.com/items?itemName=josefpihrt.RoslynatorRefactorings)** (Josef Pihrt) 
+* **[Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)** (Mads Kristensen)  
+* **[Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)** (Mads Kristensen)  <kbd>Shift</kbd>+<kbd>F12</kbd>
+* **[Disable Mouse Wheel Zoom](https://marketplace.visualstudio.com/items?itemName=NoahRichards.DisableMouseWheelZoom)** (Noah Richards)
+* **[Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)** (Mads Kristensen) <kbd>Alt</kbd>+<kbd>Space</kbd>
+* **[Subword Navigation](https://marketplace.visualstudio.com/items?itemName=OlleWestman.SubwordNavigation)** (Olle Westman)
+  <kbd>Ctrl</kbd>+<kbd>Right</kbd>/<kbd>Left</kbd>
 
 
 ### Tips
-* **Feature Flags** (Paul Harrington) https://marketplace.visualstudio.com/items?itemName=PaulHarrington.FeatureFlagsExtension
-
+* **[Feature Flags](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.FeatureFlagsExtension)** (Paul Harrington)
+* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)** (Microsoft DevLabs)
