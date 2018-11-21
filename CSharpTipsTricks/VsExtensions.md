@@ -1,8 +1,9 @@
 ﻿# Visual Studio 2017 Extensions
 
 ### Basic
-* **[Roslynator Refactorings](https://marketplace.visualstudio.com/items?itemName=josefpihrt.RoslynatorRefactorings)** (Josef Pihrt) 
+* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)** (Microsoft DevLabs)* **[Roslynator Refactorings](https://marketplace.visualstudio.com/items?itemName=josefpihrt.RoslynatorRefactorings)** (Josef Pihrt) 
 * **[Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)** (Mads Kristensen)  
+* **[Disable Solution Explorer's Dynamic Nodes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DisableSolutionExplorersDynamicNodes)** (Mads Kristensen)  
 * **[Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)** (Mads Kristensen)  <kbd>Shift</kbd>+<kbd>F2</kbd>
 * **[Disable Mouse Wheel Zoom](https://marketplace.visualstudio.com/items?itemName=NoahRichards.DisableMouseWheelZoom)** (Noah Richards)
 * **[Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)** (Mads Kristensen) <kbd>Alt</kbd>+<kbd>Space</kbd>
@@ -12,4 +13,3 @@
 
 ### Tips
 * **[Feature Flags](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.FeatureFlagsExtension)** (Paul Harrington)
-* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)** (Microsoft DevLabs)
