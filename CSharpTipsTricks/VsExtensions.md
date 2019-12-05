@@ -1,4 +1,4 @@
-﻿# Visual Studio 2017 Extensions
+﻿# Visual Studio 2019 Extensions
 
 ### Basic
 * **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)** (Microsoft DevLabs)
