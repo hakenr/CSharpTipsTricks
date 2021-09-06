@@ -6,7 +6,7 @@
 * **[Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)** (Mads Kristensen)  
 * **[Disable Solution Explorer's Dynamic Nodes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DisableSolutionExplorersDynamicNodes)** (Mads Kristensen)  
 * **[Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)** (Mads Kristensen)  <kbd>Shift</kbd>+<kbd>F2</kbd>
-* **[Tweaks](https://www.vsixgallery.com/extension/0c8bd9fa-77d5-4563-ab57-9e01608c3d04)** (Mads Kristenses) - includes "Disable Mouse Wheel Zoom" & more
+* **[Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks)** (Mads Kristenses) - includes "Disable Mouse Wheel Zoom" & more
 * **[Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)** (Mads Kristensen) <kbd>Alt</kbd>+<kbd>Space</kbd>
 * **[Subword Navigation](https://marketplace.visualstudio.com/items?itemName=OlleWestman.SubwordNavigation)** (Olle Westman)
   <kbd>Ctrl</kbd>+<kbd>Right</kbd>/<kbd>Left</kbd>
